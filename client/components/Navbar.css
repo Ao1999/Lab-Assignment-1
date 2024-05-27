@@ -1,0 +1,13 @@
+/**
+ * File Name: Navbar.css
+ * Student's Name: AOZENG
+ * StudentID: 301173375
+ * Date: 2024/05/26
+ */
+.navbar {
+    margin-right: 200x;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
